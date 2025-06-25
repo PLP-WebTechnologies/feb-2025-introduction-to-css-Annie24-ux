@@ -1,0 +1,33 @@
+img{
+    width: 450px;
+    height: 400px;
+    align-items: center;
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background-color:#D7D3BF;
+    margin: 30px;
+    font-family: 'Afacad Flux';font-size: 22px;
+}
+
+
+.container{
+    padding:20px;
+    color:white;
+    Text-align: center;
+}
+
+#box{
+    padding: 15px;
+    margin: 30px;
+    border: 2px solid #727D73;
+    border-radius: 5px;
+}
+
+h1, h2, h4, h3{
+    text-align: center;
+    text-decoration: wavy;
+}
+
