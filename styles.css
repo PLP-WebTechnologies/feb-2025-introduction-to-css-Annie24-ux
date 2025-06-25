@@ -17,7 +17,7 @@ body{
 .container{
     padding:20px;
     color:white;
-    Text-align: center;
+    text-align: center;
 }
 
 #box{
@@ -29,6 +29,5 @@ body{
 
 h1, h2, h4, h3{
     text-align: center;
-    text-decoration: wavy;
 }
 
